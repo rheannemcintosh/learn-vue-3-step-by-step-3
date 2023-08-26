@@ -1,5 +1,5 @@
 <script setup>
-  import TeamView from "@/views/TeamView.vue"
+  import TeamView from "@/views/TeamView.vue";
 </script>
 
 <template>
